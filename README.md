@@ -13,11 +13,6 @@ An edge-computed, full-stack fitness application combining computer vision, real
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 
-https://github.com/user-attachments/assets/5c0801ae-694c-49af-bdbf-1f02db3c40dc
-
-
-
-
 </div>
 
 ---
