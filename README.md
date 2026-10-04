@@ -12,12 +12,6 @@ An edge-computed, full-stack fitness application combining computer vision, real
 [![Database](https://img.shields.io/badge/SQLite3-Persistence%20Layer-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-[Key Features](#-key-features) • [Visual Showcase](#-visual-showcase--ui-walkthrough) • [System Architecture](#-system-architecture) • [Biomechanical Math](#-biomechanical-kinematics--detection-logic) • [Step-by-Step Setup](#-step-by-step-installation--execution-guide) • [Database Schema](#-database-architecture) • [Directory Map](#-repository-structure)
-
-
-https://github.com/user-attachments/assets/27f4db0d-9372-4a38-9c86-26d3446be309
-
-
 
 https://github.com/user-attachments/assets/5c0801ae-694c-49af-bdbf-1f02db3c40dc
 
@@ -59,40 +53,15 @@ Maintaining proper biomechanical form during compound and isolation resistance e
 
 ### 2. Product Landing Page & Video Walkthrough
 
-| Feature Presentation Site | Biomechanical Motion Tracking |
-| :---: | :---: |
-| <img src="LandingPage/IMGs_add_your_own/squat.jpg" width="480" alt="Landing Page Interface" /> | <img src="LandingPage/IMGs_add_your_own/deadlift.jpg" width="480" alt="Kinematic Tracking" /> |
 
 #### 🎬 Landing Page Video Walkthrough
-> **Local Video File:** [`LandingPage/videos_add_your_own/demo.mp4`](LandingPage/videos_add_your_own/demo.mp4)
 
-<!-- *(To turn this into a playable embedded video on GitHub, see Step 4 below).* -->
+https://github.com/user-attachments/assets/5c0801ae-694c-49af-bdbf-1f02db3c40dc
 
-<!-- ## 📸 Visual Showcase & UI Walkthrough
 
-### 1. Product Landing Page & Video Demonstration
-
-The project features a responsive dark-themed presentation portal engineered in vanilla HTML5 and CSS3 to showcase the platform's vision capabilities.
-
-### Application Interface
-
-| Login Wall | Workout Planning & Dashboard |
-| :---: | :---: |
-| <img src="screenshots/login_wall.png" width="450" alt="Login Screen" /> | <img src="screenshots/dashboard.png" width="450" alt="Dashboard Screen" /> |
-
-<!-- <div align="center">
-
-| Product Presentation Portal | Animated Tracking Simulation |
-| :---: | :---: |
-| <img src="LandingPage/IMGs_add_your_own/squat.jpg" width="480" alt="Landing Page Interface" /> | <img src="LandingPage/IMGs_add_your_own/deadlift.jpg" width="480" alt="Kinematic Tracking" /> |
-
-</div> -->
 
 #### 🎬 Live Demo Video
 > The platform includes a pre-rendered high-definition demo video located at [`LandingPage/videos_add_your_own/demo.mp4`](LandingPage/videos_add_your_own/demo.mp4):
 
-```html
-<video width="100%" controls autoplay loop muted playsinline>
-  <source src="LandingPage/videos_add_your_own/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
+
+
