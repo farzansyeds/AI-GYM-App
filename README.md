@@ -14,6 +14,16 @@ An edge-computed, full-stack fitness application combining computer vision, real
 
 [Key Features](#-key-features) • [Visual Showcase](#-visual-showcase--ui-walkthrough) • [System Architecture](#-system-architecture) • [Biomechanical Math](#-biomechanical-kinematics--detection-logic) • [Step-by-Step Setup](#-step-by-step-installation--execution-guide) • [Database Schema](#-database-architecture) • [Directory Map](#-repository-structure)
 
+
+https://github.com/user-attachments/assets/27f4db0d-9372-4a38-9c86-26d3446be309
+
+
+
+https://github.com/user-attachments/assets/5c0801ae-694c-49af-bdbf-1f02db3c40dc
+
+
+
+
 </div>
 
 ---
